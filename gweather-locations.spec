@@ -3,7 +3,7 @@
 
 Name:           gweather-locations
 Version:        2026.2
-Release:        1
+Release:        2
 Summary:        The GWeather locations database
 License:        GPL-2.0-or-later
 URL:            https://gitlab.gnome.org/GNOME/gweather-locations
